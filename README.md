@@ -12,7 +12,7 @@ Start typing in a search term to find matching Gifs.
 
 ![Mainpage](gifhunterhome.png?raw=true "Main page")
 View your results including any reviews or notes about the book. Click to filter by bookshelf!
-![Results](gifhuntersearch.png?raw=true "Results Page")
+![Results](githuntersearch.png?raw=true "Results Page")
 Add a new book to your collection, including notes, whether or not you've read it, and what category it belongs to.
 ![Favorites](gifhunterfavorites.png?raw=true "Favorites Page")
 
