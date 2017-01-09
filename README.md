@@ -9,12 +9,14 @@ No, we're reaaally sure how to pronounce it, either.
 
 ## Using the application
 Start typing in a search term to find matching Gifs. 
-
 ![Mainpage](gifhunterhome.png?raw=true "Main page")
-View your results including any reviews or notes about the book. Click to filter by bookshelf!
+See results related to your search
 ![Results](githuntersearch.png?raw=true "Results Page")
-Add a new book to your collection, including notes, whether or not you've read it, and what category it belongs to.
+Click on a Gif to see the direct URL (and a closer look!)
+![Modal](openmodal.png?raw=true "Modal Window")
+Add a Gif to your favorites collection to stare at for eternity
 ![Favorites](gifhunterfavorites.png?raw=true "Favorites Page")
+
 
 
 ## Built With
