@@ -1,16 +1,17 @@
 # GifHunter
 
-An internet tool for the cool kids.
+An internet tool to find and save your favorite Gifs.
 
-Search for Gifs (try an emotion, favorite tv show, or cats. always cats.). Create an account to save your favorite Gifs. 
+## Use Case
+The internet is a strange, weird place. Collect and share Gifs to help spread the weird. Gifs are the lingua franca of the next generation, and already popping up all over Twitter and Buzzfeed as quick modes of communication. 
 
-No, we're reaaally sure how to pronounce it, either.
-
-
+## Working Prototype
+A working prototype is available at: (https://hidden-plateau-72182.herokuapp.com/)
+ 
 ## Using the application
-Start typing in a search term to find matching Gifs. 
+Type in a search term to find relevant Gifs. Cats? Spongebob? Baby Sloths? Find them all here.
 ![Mainpage](gifhunterhome.png?raw=true "Main page")
-See results related to your search
+See results related to your search. If you've created an account, click the heart to save it to your personal Gif collection.
 ![Results](githuntersearch.png?raw=true "Results Page")
 Click on a Gif to see the direct URL (and a closer look!)
 ![Modal](openmodal.png?raw=true "Modal Window")
@@ -19,14 +20,12 @@ Add a Gif to your favorites collection to stare at for eternity
 
 
 
-## Built With
+## Technical
 
-* [React](https://facebook.github.io/react/) - Front End
-* [Bootstrap](http://getbootstrap.com/) - Form Styling
-* [Firebase](https://firebase.google.com/) - Database 
-* [Babel](https://babeljs.io/) - To power all that fancy new ES6 code
-* [Webpack](https://webpack.github.io/) - Module bundler
-* [Giphy API](https://github.com/Giphy/GiphyAPI) - Used to find the Gifs
+GifHunter is powered by React on the front end (with some Bootstrap for the forms). 
+Authentication using Firebase.
+The Gif data is provided by the Giphy.com API.
+
 
 
 ## Authors
