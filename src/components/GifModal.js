@@ -15,7 +15,6 @@ const GifModal = (props) => {
         <p className="urlTag">URL:<a href={props.selectedGif.bitly_url}>{props.selectedGif.bitly_url}</a></p>
 
         <button onClick={() => props.onRequestClose()}>close</button>
-        <a href="mailto: name@domain.com"><button> Email me </button></a>
       </div>
     </Modal>
   );
