@@ -32,6 +32,7 @@ export function requestGifs(term = null) {
       });
     });
   }
+
 }
 
 export function favoriteGif({selectedGif}) {

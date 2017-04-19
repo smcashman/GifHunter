@@ -5,6 +5,7 @@ import * as Actions from '../actions';
 import GifList from '../components/GifList';
 import GifModal from '../components/GifModal';
 import SearchBar from '../components/SearchBar';
+import Spinner from '../components/index.jsx';
 import '../styles/app.css';
 
 class Home extends React.Component {

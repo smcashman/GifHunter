@@ -2,7 +2,7 @@ import { REQUEST_GIFS, FETCH_FAVORITED_GIFS } from '../actions';
 
 const initialState =  {
   data: [],
-  favorites: []
+  favorites: [],
 };
 
 export default function gifs(state = initialState, action) {

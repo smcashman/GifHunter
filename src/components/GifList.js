@@ -9,6 +9,7 @@ const GifList = (props) => {
     onGifSelect={props.onGifSelect}
     onFavoriteSelect={props.onFavoriteSelect}
     onFavoriteDeselect={props.onFavoriteDeselect}
+    loading={props.loading}
     isAuthenticated={props.isAuthenticated}
     isFavorite={props.isFavorite} />
     
