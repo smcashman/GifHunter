@@ -43,7 +43,7 @@
     position: relative;
     padding: 1em;
     width: 100%;
-    background: linear-gradient(right,  #ff80bf, #b3ffb3, #80dfff, #df9fdf);
+    background: linear-gradient(135deg, #ff80bf, #b3ffb3, #80dfff, #df9fdf);
 }
 
 .gif-item img {
