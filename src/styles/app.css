@@ -77,6 +77,14 @@ input {
     width: 50%;
 }
 
+.intro{
+    text-align: center;
+    font-size:20pt;
+    width:60%;
+    margin:0 auto;
+    margin-bottom:20px;
+}
+
 @media only screen and (min-width: 400px) {
     .gif-list {
         -moz-column-count: 2;

@@ -8,7 +8,8 @@ class SearchBar extends React.Component {
   render() {
     return (
       <div className="search">
-        <input placeholder="Enter text to search for gifs!" onChange={event => this.onInputChange(event.target.value)} />
+        <h1 className="intro"> Welcome to GifHunter!<br/>Start typing to start finding the best moving images to express exactly how you feel!</h1>
+        <input placeholder="Need inspiration? Search for your favorite TV show!" onChange={event => this.onInputChange(event.target.value)} />
       </div>
     );
   }
